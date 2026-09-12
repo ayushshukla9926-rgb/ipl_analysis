@@ -1,7 +1,7 @@
 CREATE DATABASE IF NOT EXISTS ipl_db;
 USE ipl_db;
 
-USE ipl_db;
+
 
 DROP TABLE IF EXISTS fact_deliveries;
 DROP TABLE IF EXISTS dim_matches;
@@ -64,9 +64,10 @@ Views
 
 USE ipl_db;
 
--- ============================================================================
--- 1. VENUE INTELLIGENCE (Par Scores, Chasing/Defending Bias, Pitch Archetypes)
--- ============================================================================
+
+USE ipl_db;
+
+-- 1. Consolidated Venue Intelligence
 CREATE OR REPLACE VIEW view_venue_intelligence AS
 SELECT 
     season,
@@ -88,107 +89,49 @@ SELECT
 FROM dim_matches
 GROUP BY season, venue;
 
--- ============================================================================
--- 2. DEATH PRESSURE BATTERS (Innings 2, Overs 15-20 Chase Acceleration)
--- ============================================================================
-CREATE OR REPLACE VIEW view_death_pressure_strikers AS
+-- 2. Consolidated Death-Over Pressure Index (Innings 2, Overs 15-20)
+CREATE OR REPLACE VIEW view_death_pressure_summary AS
 SELECT 
     season,
+    'Batting' AS role_type,
     striker AS player_name,
     batting_team AS team_name,
-    COUNT(ball) AS death_balls_faced,
-    SUM(runs_off_bat) AS total_death_runs,
-    ROUND((SUM(runs_off_bat) * 100.0 / COUNT(ball)), 2) AS pressure_strike_rate,
-    SUM(CASE WHEN runs_off_bat IN (4, 6) THEN 1 ELSE 0 END) AS death_boundaries,
-    ROUND(SUM(CASE WHEN runs_off_bat IN (4, 6) THEN runs_off_bat ELSE 0 END) * 100.0 / NULLIF(SUM(runs_off_bat), 0), 1) AS boundary_run_pct
+    COUNT(ball) AS deliveries,
+    SUM(runs_off_bat) AS runs_metric,
+    ROUND((SUM(runs_off_bat) * 100.0 / COUNT(ball)), 2) AS primary_rate, -- Strike Rate
+    SUM(CASE WHEN runs_off_bat IN (4, 6) THEN 1 ELSE 0 END) AS boundaries_or_wickets
 FROM fact_deliveries
 WHERE is_pressure_ball = 1
 GROUP BY season, striker, batting_team
 HAVING COUNT(ball) >= 15
-ORDER BY pressure_strike_rate DESC;
 
--- ============================================================================
--- 3. DEATH PRESSURE BOWLERS (Innings 2, Overs 15-20 Target Defending)
--- ============================================================================
-CREATE OR REPLACE VIEW view_death_pressure_bowlers AS
+UNION ALL
+
 SELECT 
     season,
+    'Bowling' AS role_type,
     bowler AS player_name,
     bowling_team AS team_name,
-    COUNT(ball) AS death_balls_bowled,
-    ROUND(COUNT(ball) / 6.0, 1) AS overs_bowled,
-    SUM(runs_off_bat + COALESCE(wides, 0) + COALESCE(noballs, 0)) AS runs_conceded,
-    ROUND((SUM(runs_off_bat + COALESCE(wides, 0) + COALESCE(noballs, 0)) * 6.0) / COUNT(ball), 2) AS pressure_economy_rate,
+    COUNT(ball) AS deliveries,
+    SUM(runs_off_bat + COALESCE(wides, 0) + COALESCE(noballs, 0)) AS runs_metric,
+    ROUND((SUM(runs_off_bat + COALESCE(wides, 0) + COALESCE(noballs, 0)) * 6.0) / COUNT(ball), 2) AS primary_rate, -- Economy Rate
     SUM(CASE 
         WHEN wicket_type IS NOT NULL 
              AND wicket_type NOT IN ('run out', 'retired hurt', 'retired out', 'obstructing the field') 
         THEN 1 ELSE 0 
-    END) AS pressure_wickets,
-    SUM(CASE WHEN total_runs = 0 THEN 1 ELSE 0 END) AS dot_balls,
-    ROUND((SUM(CASE WHEN total_runs = 0 THEN 1 ELSE 0 END) * 100.0) / COUNT(ball), 1) AS dot_ball_pct
+    END) AS boundaries_or_wickets
 FROM fact_deliveries
 WHERE is_pressure_ball = 1
 GROUP BY season, bowler, bowling_team
-HAVING COUNT(ball) >= 15
-ORDER BY pressure_economy_rate ASC;
+HAVING COUNT(ball) >= 15;
 
--- ============================================================================
--- 4. PLAYOFF CLUTCH BATTERS (Qualifiers, Eliminator, and Final)
--- ============================================================================
-CREATE OR REPLACE VIEW view_playoff_clutch_leaders AS
-SELECT 
-    f.season,
-    f.striker AS player_name,
-    f.batting_team AS team_name,
-    COUNT(DISTINCT f.match_id) AS playoff_matches,
-    SUM(f.runs_off_bat) AS playoff_runs,
-    ROUND(SUM(f.runs_off_bat) * 100.0 / COUNT(f.ball), 2) AS playoff_strike_rate,
-    COUNT(CASE WHEN f.runs_off_bat = 6 THEN 1 END) AS playoff_sixes
-FROM fact_deliveries f
-JOIN dim_matches m ON f.match_id = m.match_id
-WHERE m.match_stage IN ('Qualifier 1', 'Eliminator', 'Qualifier 2', 'Final')
-GROUP BY f.season, f.striker, f.batting_team
-ORDER BY playoff_runs DESC;
 
--- ============================================================================
--- 5. PLAYOFF CLUTCH BOWLERS (Qualifiers, Eliminator, and Final)
--- ============================================================================
-CREATE OR REPLACE VIEW view_playoff_clutch_bowlers AS
-SELECT 
-    f.season,
-    f.bowler AS player_name,
-    f.bowling_team AS team_name,
-    COUNT(DISTINCT f.match_id) AS playoff_matches,
-    ROUND(COUNT(f.ball) / 6.0, 1) AS playoff_overs_bowled,
-    SUM(f.runs_off_bat + COALESCE(f.wides, 0) + COALESCE(f.noballs, 0)) AS runs_conceded,
-    ROUND((SUM(f.runs_off_bat + COALESCE(f.wides, 0) + COALESCE(f.noballs, 0)) * 6.0) / COUNT(f.ball), 2) AS playoff_economy_rate,
-    SUM(CASE 
-        WHEN f.wicket_type IS NOT NULL 
-             AND f.wicket_type NOT IN ('run out', 'retired hurt', 'retired out', 'obstructing the field') 
-        THEN 1 ELSE 0 
-    END) AS playoff_wickets
-FROM fact_deliveries f
-JOIN dim_matches m ON f.match_id = m.match_id
-WHERE m.match_stage IN ('Qualifier 1', 'Eliminator', 'Qualifier 2', 'Final')
-GROUP BY f.season, f.bowler, f.bowling_team
-ORDER BY playoff_wickets DESC, playoff_economy_rate ASC;
 
--- ============================================================================
--- 6. PHASE-WISE BATTER PERFORMANCE (Powerplay vs Middle vs Death)
--- ============================================================================
-CREATE OR REPLACE VIEW view_phase_breakdown AS
-SELECT 
-    season,
-    match_phase,
-    striker AS player_name,
-    batting_team AS team_name,
-    COUNT(ball) AS balls_faced,
-    SUM(runs_off_bat) AS runs_scored,
-    ROUND(SUM(runs_off_bat) * 100.0 / COUNT(ball), 2) AS phase_strike_rate,
-    SUM(CASE WHEN runs_off_bat IN (4, 6) THEN 1 ELSE 0 END) AS phase_boundaries
-FROM fact_deliveries
-GROUP BY season, match_phase, striker, batting_team
-HAVING COUNT(ball) >= 30;
+
+
+
+
+
 
 
 
