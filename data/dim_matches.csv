@@ -1,0 +1,220 @@
+match_id,season,match_date,venue,team1,team2,inn1_score,inn1_wickets,chasing_team,inn2_score,inn2_wickets,match_winner,result_type,win_narrative,is_chasing_win,match_stage
+1422119,2024,2024-03-22,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,Chennai Super Kings,173,6,Chennai Super Kings,176.0,4.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1422120,2024,2024-03-23,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Delhi Capitals,Punjab Kings,174,9,Punjab Kings,177.0,6.0,Punjab Kings,wickets,Won Batting Second,1,League
+1422121,2024,2024-03-23,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,208,7,Sunrisers Hyderabad,204.0,7.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1422122,2024,2024-03-24,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Lucknow Super Giants,193,4,Lucknow Super Giants,173.0,6.0,Rajasthan Royals,runs,Won Batting First,0,League
+1422123,2024,2024-03-24,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,168,6,Mumbai Indians,162.0,9.0,Gujarat Titans,runs,Won Batting First,0,League
+1422124,2024,2024-03-25,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,Royal Challengers Bengaluru,176,6,Royal Challengers Bengaluru,178.0,6.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1422125,2024,2024-03-26,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Gujarat Titans,206,6,Gujarat Titans,143.0,8.0,Chennai Super Kings,runs,Won Batting First,0,League
+1422126,2024,2024-03-27,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,277,3,Mumbai Indians,246.0,5.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1422127,2024,2024-03-28,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,185,5,Delhi Capitals,173.0,5.0,Rajasthan Royals,runs,Won Batting First,0,League
+1422128,2024,2024-03-29,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Kolkata Knight Riders,182,6,Kolkata Knight Riders,186.0,3.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1422129,2024,2024-03-30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,199,8,Punjab Kings,178.0,5.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1422130,2024,2024-03-31,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Gujarat Titans,162,8,Gujarat Titans,168.0,3.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1422131,2024,2024-03-31,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,Chennai Super Kings,191,5,Chennai Super Kings,171.0,6.0,Delhi Capitals,runs,Won Batting First,0,League
+1422132,2024,2024-04-01,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,125,9,Rajasthan Royals,127.0,4.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1422133,2024,2024-04-02,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,181,5,Royal Challengers Bengaluru,153.0,10.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1422134,2024,2024-04-03,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Kolkata Knight Riders,Delhi Capitals,272,7,Delhi Capitals,166.0,10.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1422135,2024,2024-04-04,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Punjab Kings,199,4,Punjab Kings,200.0,7.0,Punjab Kings,wickets,Won Batting Second,1,League
+1422136,2024,2024-04-05,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,165,5,Sunrisers Hyderabad,166.0,4.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1422137,2024,2024-04-06,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,Rajasthan Royals,183,3,Rajasthan Royals,189.0,4.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1422138,2024,2024-04-07,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,234,5,Delhi Capitals,205.0,8.0,Mumbai Indians,runs,Won Batting First,0,League
+1422139,2024,2024-04-07,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,163,5,Gujarat Titans,130.0,10.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1426260,2024,2024-04-08,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,Chennai Super Kings,137,9,Chennai Super Kings,141.0,3.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1426261,2024,2024-04-09,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Sunrisers Hyderabad,Punjab Kings,182,9,Punjab Kings,180.0,6.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1426262,2024,2024-04-10,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Gujarat Titans,196,3,Gujarat Titans,199.0,7.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1426263,2024,2024-04-11,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,196,8,Mumbai Indians,199.0,3.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1426264,2024,2024-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,167,7,Delhi Capitals,170.0,4.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1426265,2024,2024-04-13,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Rajasthan Royals,147,8,Rajasthan Royals,152.0,7.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1426266,2024,2024-04-14,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,161,7,Kolkata Knight Riders,162.0,2.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1426267,2024,2024-04-14,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,206,4,Mumbai Indians,186.0,6.0,Chennai Super Kings,runs,Won Batting First,0,League
+1426268,2024,2024-04-15,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,287,3,Royal Challengers Bengaluru,262.0,7.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1426269,2024,2024-04-16,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,223,6,Rajasthan Royals,224.0,8.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1426270,2024,2024-04-17,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Delhi Capitals,89,10,Delhi Capitals,92.0,4.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1426271,2024,2024-04-18,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mumbai Indians,Punjab Kings,192,7,Punjab Kings,183.0,10.0,Mumbai Indians,runs,Won Batting First,0,League
+1426272,2024,2024-04-19,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,176,6,Lucknow Super Giants,180.0,2.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1426273,2024,2024-04-20,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Delhi Capitals,266,7,Delhi Capitals,199.0,10.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1426274,2024,2024-04-21,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bengaluru,222,6,Royal Challengers Bengaluru,221.0,10.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1426275,2024,2024-04-21,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Gujarat Titans,142,10,Gujarat Titans,146.0,7.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1426276,2024,2024-04-22,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,179,9,Rajasthan Royals,183.0,1.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1426277,2024,2024-04-23,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Lucknow Super Giants,210,4,Lucknow Super Giants,213.0,4.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1426278,2024,2024-04-24,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,224,4,Gujarat Titans,220.0,8.0,Delhi Capitals,runs,Won Batting First,0,League
+1426279,2024,2024-04-25,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bengaluru,Sunrisers Hyderabad,206,7,Sunrisers Hyderabad,171.0,8.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1426280,2024,2024-04-26,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,261,6,Punjab Kings,262.0,2.0,Punjab Kings,wickets,Won Batting Second,1,League
+1426281,2024,2024-04-27,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Mumbai Indians,257,4,Mumbai Indians,247.0,9.0,Delhi Capitals,runs,Won Batting First,0,League
+1426282,2024,2024-04-27,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Rajasthan Royals,196,5,Rajasthan Royals,199.0,3.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1426283,2024,2024-04-28,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,200,3,Royal Challengers Bengaluru,206.0,1.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1426284,2024,2024-04-28,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Sunrisers Hyderabad,212,3,Sunrisers Hyderabad,134.0,10.0,Chennai Super Kings,runs,Won Batting First,0,League
+1426285,2024,2024-04-29,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,153,9,Kolkata Knight Riders,157.0,3.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1426286,2024,2024-04-30,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,Lucknow Super Giants,144,7,Lucknow Super Giants,145.0,6.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1426287,2024,2024-05-01,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Punjab Kings,162,7,Punjab Kings,163.0,3.0,Punjab Kings,wickets,Won Batting Second,1,League
+1426288,2024,2024-05-02,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,201,3,Rajasthan Royals,200.0,7.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1426289,2024,2024-05-03,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,169,10,Mumbai Indians,145.0,10.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1426290,2024,2024-05-04,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,147,10,Royal Challengers Bengaluru,152.0,6.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1426291,2024,2024-05-05,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Chennai Super Kings,Punjab Kings,167,9,Punjab Kings,139.0,9.0,Chennai Super Kings,runs,Won Batting First,0,League
+1426292,2024,2024-05-05,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,235,6,Lucknow Super Giants,137.0,10.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1426293,2024,2024-05-06,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,173,8,Mumbai Indians,174.0,3.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1426294,2024,2024-05-07,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,221,8,Rajasthan Royals,201.0,8.0,Delhi Capitals,runs,Won Batting First,0,League
+1426295,2024,2024-05-08,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,Sunrisers Hyderabad,165,4,Sunrisers Hyderabad,167.0,0.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1426296,2024,2024-05-09,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,241,7,Punjab Kings,181.0,10.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1426297,2024,2024-05-10,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,231,3,Chennai Super Kings,196.0,8.0,Gujarat Titans,runs,Won Batting First,0,League
+1426298,2024,2024-05-11,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,157,7,Mumbai Indians,139.0,8.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1426299,2024,2024-05-12,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,Chennai Super Kings,141,5,Chennai Super Kings,145.0,5.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1426300,2024,2024-05-12,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,187,9,Delhi Capitals,140.0,10.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1426302,2024,2024-05-14,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Lucknow Super Giants,208,4,Lucknow Super Giants,189.0,9.0,Delhi Capitals,runs,Won Batting First,0,League
+1426303,2024,2024-05-15,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Punjab Kings,144,9,Punjab Kings,145.0,5.0,Punjab Kings,wickets,Won Batting Second,1,League
+1426305,2024,2024-05-17,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,214,6,Mumbai Indians,196.0,6.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1426306,2024,2024-05-18,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,218,5,Chennai Super Kings,191.0,7.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1426307,2024,2024-05-19,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Sunrisers Hyderabad,214,5,Sunrisers Hyderabad,215.0,6.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1426309,2024,2024-05-21,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,Kolkata Knight Riders,159,10,Kolkata Knight Riders,164.0,2.0,Kolkata Knight Riders,wickets,Won Batting Second,1,Qualifier 1
+1426310,2024,2024-05-22,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Rajasthan Royals,172,8,Rajasthan Royals,174.0,6.0,Rajasthan Royals,wickets,Won Batting Second,1,Eliminator
+1426311,2024,2024-05-24,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Rajasthan Royals,175,9,Rajasthan Royals,139.0,7.0,Sunrisers Hyderabad,runs,Won Batting First,0,Qualifier 2
+1426312,2024,2024-05-26,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,Kolkata Knight Riders,113,10,Kolkata Knight Riders,114.0,2.0,Kolkata Knight Riders,wickets,Won Batting Second,1,Final
+1473438,2025,2025-03-22,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bengaluru,174,8,Royal Challengers Bengaluru,177.0,3.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1473439,2025,2025-03-23,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,286,6,Rajasthan Royals,242.0,6.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1473440,2025,2025-03-23,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Chennai Super Kings,155,9,Chennai Super Kings,158.0,6.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1473441,2025,2025-03-24,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Lucknow Super Giants,Delhi Capitals,209,8,Delhi Capitals,211.0,9.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1473442,2025,2025-03-25,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,243,5,Gujarat Titans,232.0,5.0,Punjab Kings,runs,Won Batting First,0,League
+1473443,2025,2025-03-26,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Kolkata Knight Riders,151,9,Kolkata Knight Riders,153.0,2.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1473444,2025,2025-03-27,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,190,9,Lucknow Super Giants,193.0,5.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1473445,2025,2025-03-28,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,Chennai Super Kings,196,7,Chennai Super Kings,146.0,8.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1473446,2025,2025-03-29,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Mumbai Indians,196,8,Mumbai Indians,160.0,6.0,Gujarat Titans,runs,Won Batting First,0,League
+1473447,2025,2025-03-30,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Sunrisers Hyderabad,Delhi Capitals,163,10,Delhi Capitals,166.0,3.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1473448,2025,2025-03-30,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Chennai Super Kings,182,9,Chennai Super Kings,176.0,6.0,Rajasthan Royals,runs,Won Batting First,0,League
+1473449,2025,2025-03-31,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,116,10,Mumbai Indians,121.0,2.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1473450,2025,2025-04-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,171,7,Punjab Kings,177.0,2.0,Punjab Kings,wickets,Won Batting Second,1,League
+1473451,2025,2025-04-02,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Gujarat Titans,169,8,Gujarat Titans,170.0,2.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1473452,2025,2025-04-03,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,200,6,Sunrisers Hyderabad,120.0,10.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1473453,2025,2025-04-04,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Mumbai Indians,203,8,Mumbai Indians,191.0,5.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1473454,2025,2025-04-05,"MA Chidambaram Stadium, Chepauk, Chennai",Delhi Capitals,Chennai Super Kings,183,6,Chennai Super Kings,158.0,5.0,Delhi Capitals,runs,Won Batting First,0,League
+1473455,2025,2025-04-05,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Rajasthan Royals,Punjab Kings,205,4,Punjab Kings,155.0,9.0,Rajasthan Royals,runs,Won Batting First,0,League
+1473457,2025,2025-04-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Gujarat Titans,152,8,Gujarat Titans,153.0,3.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1473458,2025,2025-04-07,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,221,5,Mumbai Indians,209.0,9.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1473456,2025,2025-04-08,"Eden Gardens, Kolkata",Lucknow Super Giants,Kolkata Knight Riders,238,3,Kolkata Knight Riders,234.0,7.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1473459,2025,2025-04-08,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Chennai Super Kings,219,6,Chennai Super Kings,201.0,5.0,Punjab Kings,runs,Won Batting First,0,League
+1473460,2025,2025-04-09,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Rajasthan Royals,217,6,Rajasthan Royals,159.0,10.0,Gujarat Titans,runs,Won Batting First,0,League
+1473461,2025,2025-04-10,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,163,7,Delhi Capitals,169.0,4.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1473462,2025,2025-04-11,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,103,9,Kolkata Knight Riders,107.0,2.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1473463,2025,2025-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Gujarat Titans,Lucknow Super Giants,180,6,Lucknow Super Giants,186.0,4.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1473464,2025,2025-04-12,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,Sunrisers Hyderabad,245,6,Sunrisers Hyderabad,247.0,2.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1473465,2025,2025-04-13,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bengaluru,173,4,Royal Challengers Bengaluru,175.0,1.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1473466,2025,2025-04-13,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,205,5,Delhi Capitals,193.0,10.0,Mumbai Indians,runs,Won Batting First,0,League
+1473467,2025,2025-04-14,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Chennai Super Kings,166,7,Chennai Super Kings,168.0,5.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1473468,2025,2025-04-15,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Kolkata Knight Riders,111,10,Kolkata Knight Riders,95.0,10.0,Punjab Kings,runs,Won Batting First,0,League
+1473469,2025,2025-04-16,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Rajasthan Royals,188,5,Rajasthan Royals,188.0,5.0,Delhi Capitals,super_over,Won in Super Over by Delhi Capitals,0,League
+1473470,2025,2025-04-17,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,162,5,Mumbai Indians,166.0,6.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1473471,2025,2025-04-18,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Punjab Kings,95,9,Punjab Kings,98.0,5.0,Punjab Kings,wickets,Won Batting Second,1,League
+1473472,2025,2025-04-19,"Narendra Modi Stadium, Ahmedabad",Delhi Capitals,Gujarat Titans,203,8,Gujarat Titans,204.0,3.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1473473,2025,2025-04-19,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,180,5,Rajasthan Royals,178.0,5.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1473474,2025,2025-04-20,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Royal Challengers Bengaluru,157,6,Royal Challengers Bengaluru,159.0,3.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1473475,2025,2025-04-20,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,176,5,Mumbai Indians,177.0,1.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1473476,2025,2025-04-21,"Eden Gardens, Kolkata",Gujarat Titans,Kolkata Knight Riders,198,3,Kolkata Knight Riders,159.0,8.0,Gujarat Titans,runs,Won Batting First,0,League
+1473477,2025,2025-04-22,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,159,6,Delhi Capitals,161.0,2.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1473478,2025,2025-04-23,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,143,8,Mumbai Indians,146.0,3.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1473479,2025,2025-04-24,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Rajasthan Royals,205,5,Rajasthan Royals,194.0,9.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1473480,2025,2025-04-25,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Sunrisers Hyderabad,154,10,Sunrisers Hyderabad,155.0,5.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1473481,2025,2025-04-26,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,201,4,Kolkata Knight Riders,7.0,0.0,Punjab Kings,runs,Won Batting First,0,League
+1473482,2025,2025-04-27,"Wankhede Stadium, Mumbai",Mumbai Indians,Lucknow Super Giants,215,7,Lucknow Super Giants,161.0,10.0,Mumbai Indians,runs,Won Batting First,0,League
+1473483,2025,2025-04-27,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,162,8,Royal Challengers Bengaluru,165.0,4.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1473484,2025,2025-04-28,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,209,4,Rajasthan Royals,212.0,2.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1473485,2025,2025-04-29,"Arun Jaitley Stadium, Delhi",Kolkata Knight Riders,Delhi Capitals,204,9,Delhi Capitals,190.0,9.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1473486,2025,2025-04-30,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Punjab Kings,190,10,Punjab Kings,194.0,6.0,Punjab Kings,wickets,Won Batting Second,1,League
+1473487,2025,2025-05-01,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,217,2,Rajasthan Royals,117.0,10.0,Mumbai Indians,runs,Won Batting First,0,League
+1473488,2025,2025-05-02,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,224,6,Sunrisers Hyderabad,186.0,6.0,Gujarat Titans,runs,Won Batting First,0,League
+1473489,2025,2025-05-03,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,213,5,Chennai Super Kings,211.0,5.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1473490,2025,2025-05-04,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,206,4,Rajasthan Royals,205.0,8.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1473491,2025,2025-05-04,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Lucknow Super Giants,236,5,Lucknow Super Giants,199.0,7.0,Punjab Kings,runs,Won Batting First,0,League
+1473492,2025,2025-05-05,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,133,7,,,,No Result,no_result,Match Abandoned,0,League
+1473493,2025,2025-05-06,"Wankhede Stadium, Mumbai",Mumbai Indians,Gujarat Titans,155,8,Gujarat Titans,147.0,7.0,Mumbai Indians,runs,Won Batting First,0,League
+1473494,2025,2025-05-07,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,179,6,Chennai Super Kings,183.0,8.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1473495,2025,2025-05-08,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,122,1,,,,No Result,no_result,Match Abandoned,0,League
+1473497,2025,2025-05-18,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Rajasthan Royals,219,5,Rajasthan Royals,209.0,7.0,Punjab Kings,runs,Won Batting First,0,League
+1473498,2025,2025-05-18,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Gujarat Titans,199,3,Gujarat Titans,205.0,0.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1473499,2025,2025-05-19,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Sunrisers Hyderabad,205,7,Sunrisers Hyderabad,206.0,5.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1473500,2025,2025-05-20,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Rajasthan Royals,187,8,Rajasthan Royals,188.0,4.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1473501,2025,2025-05-21,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Capitals,180,5,Delhi Capitals,121.0,10.0,Mumbai Indians,runs,Won Batting First,0,League
+1473502,2025,2025-05-22,"Narendra Modi Stadium, Ahmedabad",Lucknow Super Giants,Gujarat Titans,235,2,Gujarat Titans,202.0,9.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1473503,2025,2025-05-23,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Sunrisers Hyderabad,Royal Challengers Bengaluru,231,6,Royal Challengers Bengaluru,189.0,10.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1485779,2025,2025-05-24,"Sawai Mansingh Stadium, Jaipur",Punjab Kings,Delhi Capitals,206,8,Delhi Capitals,208.0,4.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1473504,2025,2025-05-25,"Narendra Modi Stadium, Ahmedabad",Chennai Super Kings,Gujarat Titans,230,5,Gujarat Titans,147.0,10.0,Chennai Super Kings,runs,Won Batting First,0,League
+1473505,2025,2025-05-25,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,278,3,Kolkata Knight Riders,168.0,10.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1473506,2025,2025-05-26,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Punjab Kings,184,7,Punjab Kings,187.0,3.0,Punjab Kings,wickets,Won Batting Second,1,League
+1473507,2025,2025-05-27,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,227,3,Royal Challengers Bengaluru,230.0,4.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1473508,2025,2025-05-29,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,Royal Challengers Bengaluru,101,10,Royal Challengers Bengaluru,106.0,2.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,Qualifier 1
+1473509,2025,2025-05-30,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Mumbai Indians,Gujarat Titans,228,5,Gujarat Titans,208.0,6.0,Mumbai Indians,runs,Won Batting First,0,Eliminator
+1473510,2025,2025-06-01,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Punjab Kings,203,6,Punjab Kings,207.0,5.0,Punjab Kings,wickets,Won Batting Second,1,Qualifier 2
+1473511,2025,2025-06-03,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Punjab Kings,190,9,Punjab Kings,184.0,7.0,Royal Challengers Bengaluru,runs,Won Batting First,0,Final
+1527674,2026,2026-03-28,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,Royal Challengers Bengaluru,201,9,Royal Challengers Bengaluru,203.0,4.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1527675,2026,2026-03-29,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,220,4,Mumbai Indians,224.0,4.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1527676,2026,2026-03-30,"Barsapara Cricket Stadium, Guwahati",Chennai Super Kings,Rajasthan Royals,127,10,Rajasthan Royals,128.0,2.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1527677,2026,2026-03-31,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Gujarat Titans,Punjab Kings,162,6,Punjab Kings,165.0,7.0,Punjab Kings,wickets,Won Batting Second,1,League
+1527678,2026,2026-04-01,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Delhi Capitals,141,10,Delhi Capitals,145.0,4.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1527679,2026,2026-04-02,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,226,8,Kolkata Knight Riders,161.0,10.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1527680,2026,2026-04-03,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Punjab Kings,209,5,Punjab Kings,210.0,5.0,Punjab Kings,wickets,Won Batting Second,1,League
+1527681,2026,2026-04-04,"Arun Jaitley Stadium, Delhi",Mumbai Indians,Delhi Capitals,162,6,Delhi Capitals,164.0,4.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1527682,2026,2026-04-04,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,210,6,Gujarat Titans,204.0,8.0,Rajasthan Royals,runs,Won Batting First,0,League
+1527683,2026,2026-04-05,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Lucknow Super Giants,156,9,Lucknow Super Giants,160.0,5.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1527684,2026,2026-04-05,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Chennai Super Kings,250,3,Chennai Super Kings,207.0,10.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1527685,2026,2026-04-06,"Eden Gardens, Kolkata",Kolkata Knight Riders,Punjab Kings,25,2,,,,No Result,no_result,Match Abandoned,0,League
+1527686,2026,2026-04-07,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,Mumbai Indians,150,3,Mumbai Indians,123.0,9.0,Rajasthan Royals,runs,Won Batting First,0,League
+1527687,2026,2026-04-08,"Arun Jaitley Stadium, Delhi",Gujarat Titans,Delhi Capitals,210,4,Delhi Capitals,209.0,8.0,Gujarat Titans,runs,Won Batting First,0,League
+1527688,2026,2026-04-09,"Eden Gardens, Kolkata",Kolkata Knight Riders,Lucknow Super Giants,181,4,Lucknow Super Giants,182.0,7.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1527689,2026,2026-04-10,"Barsapara Cricket Stadium, Guwahati",Royal Challengers Bengaluru,Rajasthan Royals,201,8,Rajasthan Royals,202.0,4.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1527690,2026,2026-04-11,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Sunrisers Hyderabad,Punjab Kings,219,6,Punjab Kings,223.0,4.0,Punjab Kings,wickets,Won Batting Second,1,League
+1527691,2026,2026-04-11,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Delhi Capitals,212,2,Delhi Capitals,189.0,10.0,Chennai Super Kings,runs,Won Batting First,0,League
+1527692,2026,2026-04-12,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Gujarat Titans,164,8,Gujarat Titans,165.0,3.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1527693,2026,2026-04-12,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,Mumbai Indians,240,4,Mumbai Indians,222.0,6.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1529264,2026,2026-04-13,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,216,6,Rajasthan Royals,159.0,10.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1529265,2026,2026-04-14,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Kolkata Knight Riders,192,5,Kolkata Knight Riders,160.0,7.0,Chennai Super Kings,runs,Won Batting First,0,League
+1529266,2026,2026-04-15,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,Royal Challengers Bengaluru,146,10,Royal Challengers Bengaluru,149.0,5.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1529267,2026,2026-04-16,"Wankhede Stadium, Mumbai",Mumbai Indians,Punjab Kings,195,6,Punjab Kings,198.0,3.0,Punjab Kings,wickets,Won Batting Second,1,League
+1529268,2026,2026-04-17,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Gujarat Titans,180,10,Gujarat Titans,181.0,5.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1529269,2026,2026-04-18,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,Delhi Capitals,175,8,Delhi Capitals,179.0,5.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1529270,2026,2026-04-18,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,194,9,Chennai Super Kings,184.0,8.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1529271,2026,2026-04-19,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,155,9,Kolkata Knight Riders,161.0,6.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1529272,2026,2026-04-19,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Punjab Kings,Lucknow Super Giants,254,7,Lucknow Super Giants,200.0,5.0,Punjab Kings,runs,Won Batting First,0,League
+1529273,2026,2026-04-20,"Narendra Modi Stadium, Ahmedabad",Mumbai Indians,Gujarat Titans,199,5,Gujarat Titans,100.0,10.0,Mumbai Indians,runs,Won Batting First,0,League
+1529274,2026,2026-04-21,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Delhi Capitals,242,2,Delhi Capitals,195.0,9.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1529275,2026,2026-04-22,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Rajasthan Royals,Lucknow Super Giants,159,6,Lucknow Super Giants,119.0,10.0,Rajasthan Royals,runs,Won Batting First,0,League
+1529276,2026,2026-04-23,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,207,6,Mumbai Indians,104.0,10.0,Chennai Super Kings,runs,Won Batting First,0,League
+1529277,2026,2026-04-24,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,Royal Challengers Bengaluru,205,3,Royal Challengers Bengaluru,206.0,5.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1529278,2026,2026-04-25,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Punjab Kings,264,2,Punjab Kings,265.0,4.0,Punjab Kings,wickets,Won Batting Second,1,League
+1529279,2026,2026-04-25,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Sunrisers Hyderabad,228,6,Sunrisers Hyderabad,229.0,5.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1529280,2026,2026-04-26,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Gujarat Titans,158,7,Gujarat Titans,162.0,2.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1529281,2026,2026-04-26,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,Lucknow Super Giants,155,7,Lucknow Super Giants,155.0,8.0,Kolkata Knight Riders,super_over,Won in Super Over by Kolkata Knight Riders,0,League
+1529282,2026,2026-04-27,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Royal Challengers Bengaluru,75,10,Royal Challengers Bengaluru,77.0,1.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1529283,2026,2026-04-28,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Punjab Kings,Rajasthan Royals,222,4,Rajasthan Royals,228.0,4.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1529284,2026,2026-04-29,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,243,5,Sunrisers Hyderabad,249.0,4.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1529285,2026,2026-04-30,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,Gujarat Titans,155,10,Gujarat Titans,158.0,6.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1529286,2026,2026-05-01,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,225,6,Delhi Capitals,226.0,3.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1529287,2026,2026-05-02,"MA Chidambaram Stadium, Chepauk, Chennai",Mumbai Indians,Chennai Super Kings,159,7,Chennai Super Kings,160.0,2.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1529288,2026,2026-05-03,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,165,10,Kolkata Knight Riders,169.0,3.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1529289,2026,2026-05-03,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Gujarat Titans,163,9,Gujarat Titans,167.0,6.0,Gujarat Titans,wickets,Won Batting Second,1,League
+1529290,2026,2026-05-04,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,228,5,Mumbai Indians,229.0,4.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1529291,2026,2026-05-05,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Chennai Super Kings,155,7,Chennai Super Kings,159.0,2.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1529292,2026,2026-05-06,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Punjab Kings,235,4,Punjab Kings,202.0,7.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1529293,2026,2026-05-07,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Royal Challengers Bengaluru,209,3,Royal Challengers Bengaluru,203.0,6.0,Lucknow Super Giants,runs,Won Batting First,0,League
+1529294,2026,2026-05-08,"Arun Jaitley Stadium, Delhi",Delhi Capitals,Kolkata Knight Riders,142,8,Kolkata Knight Riders,147.0,2.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1529295,2026,2026-05-09,"Sawai Mansingh Stadium, Jaipur",Gujarat Titans,Rajasthan Royals,229,4,Rajasthan Royals,152.0,10.0,Gujarat Titans,runs,Won Batting First,0,League
+1529296,2026,2026-05-10,"MA Chidambaram Stadium, Chepauk, Chennai",Lucknow Super Giants,Chennai Super Kings,203,8,Chennai Super Kings,208.0,5.0,Chennai Super Kings,wickets,Won Batting Second,1,League
+1529297,2026,2026-05-10,"Shaheed Veer Narayan Singh International Stadium, Raipur",Mumbai Indians,Royal Challengers Bengaluru,166,7,Royal Challengers Bengaluru,167.0,8.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1529298,2026,2026-05-11,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Delhi Capitals,210,5,Delhi Capitals,216.0,7.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1529299,2026,2026-05-12,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Sunrisers Hyderabad,168,5,Sunrisers Hyderabad,86.0,10.0,Gujarat Titans,runs,Won Batting First,0,League
+1529300,2026,2026-05-13,"Shaheed Veer Narayan Singh International Stadium, Raipur",Kolkata Knight Riders,Royal Challengers Bengaluru,192,4,Royal Challengers Bengaluru,194.0,4.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,League
+1529301,2026,2026-05-14,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Punjab Kings,Mumbai Indians,200,8,Mumbai Indians,205.0,4.0,Mumbai Indians,wickets,Won Batting Second,1,League
+1529302,2026,2026-05-15,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,Lucknow Super Giants,187,5,Lucknow Super Giants,188.0,3.0,Lucknow Super Giants,wickets,Won Batting Second,1,League
+1529303,2026,2026-05-16,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Titans,247,2,Gujarat Titans,218.0,4.0,Kolkata Knight Riders,runs,Won Batting First,0,League
+1529304,2026,2026-05-17,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Punjab Kings,222,4,Punjab Kings,199.0,8.0,Royal Challengers Bengaluru,runs,Won Batting First,0,League
+1529305,2026,2026-05-17,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Delhi Capitals,193,8,Delhi Capitals,197.0,5.0,Delhi Capitals,wickets,Won Batting Second,1,League
+1529306,2026,2026-05-18,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,Sunrisers Hyderabad,180,7,Sunrisers Hyderabad,181.0,5.0,Sunrisers Hyderabad,wickets,Won Batting Second,1,League
+1529307,2026,2026-05-19,"Sawai Mansingh Stadium, Jaipur",Lucknow Super Giants,Rajasthan Royals,220,5,Rajasthan Royals,225.0,3.0,Rajasthan Royals,wickets,Won Batting Second,1,League
+1529308,2026,2026-05-20,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,147,8,Kolkata Knight Riders,148.0,6.0,Kolkata Knight Riders,wickets,Won Batting Second,1,League
+1529309,2026,2026-05-21,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Chennai Super Kings,229,4,Chennai Super Kings,140.0,10.0,Gujarat Titans,runs,Won Batting First,0,League
+1529310,2026,2026-05-22,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bengaluru,255,4,Royal Challengers Bengaluru,200.0,4.0,Sunrisers Hyderabad,runs,Won Batting First,0,League
+1529311,2026,2026-05-23,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,Punjab Kings,196,6,Punjab Kings,200.0,3.0,Punjab Kings,wickets,Won Batting Second,1,League
+1529312,2026,2026-05-24,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,205,8,Mumbai Indians,175.0,9.0,Rajasthan Royals,runs,Won Batting First,0,League
+1529313,2026,2026-05-24,"Eden Gardens, Kolkata",Delhi Capitals,Kolkata Knight Riders,203,5,Kolkata Knight Riders,163.0,10.0,Delhi Capitals,runs,Won Batting First,0,League
+1535462,2026,2026-05-26,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,Gujarat Titans,254,5,Gujarat Titans,162.0,10.0,Royal Challengers Bengaluru,runs,Won Batting First,0,Qualifier 1
+1535463,2026,2026-05-27,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Rajasthan Royals,Sunrisers Hyderabad,243,8,Sunrisers Hyderabad,196.0,10.0,Rajasthan Royals,runs,Won Batting First,0,Eliminator
+1535464,2026,2026-05-29,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",Rajasthan Royals,Gujarat Titans,214,6,Gujarat Titans,219.0,3.0,Gujarat Titans,wickets,Won Batting Second,1,Qualifier 2
+1535465,2026,2026-05-31,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,Royal Challengers Bengaluru,155,8,Royal Challengers Bengaluru,161.0,5.0,Royal Challengers Bengaluru,wickets,Won Batting Second,1,Final
