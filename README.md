@@ -39,7 +39,6 @@ Welcome to my end-to-end sports analytics portfolio project. This repository con
   * 🐍 [`validate.py`](scripts/validate.py) — Data reconciliation script verifying ball counts, extras, and run tallies
 * 📂 [sql/](sql/)
   * 🗄️ [`IPL ANALYTICS DATABASE SETUP & ANALYTICAL VIEWS (2024 - 2026).sql`](<sql/IPL ANALYTICS DATABASE SETUP & ANALYTICAL VIEWS (2024 - 2026).sql>) — DDL schema setup, relational constraints, and pre-aggregated analytical views
-* ⚙️ [`.gitattributes`](.gitattributes) — Git LFS tracking configuration for large binary and data assets
 * ⚙️ [`.gitignore`](.gitignore) — Git exclusion rules for temporary files and local caches
 * 📊 [`ipl_analysis.pbix`](ipl_analysis.pbix) — Power BI production file featuring complete star schema and custom visuals
 
